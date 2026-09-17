@@ -11,7 +11,7 @@ The paper studies the evolution of ideological polarization in the Chilean Chamb
 
 Ideological polarization in the Chilean Chamber of Deputies increased by approximately **76%** between the 2002-06 and 2022-26 legislative periods.
 
-![Dynamic ideological polarization in the Chilean Chamber of Deputies, full sample](D:/varios/monitor_congreso/pape/polarizacion/docs/PA version 2/polarization_ssrn/figures/chile_polarization_full_sample.png)
+![Dynamic ideological polarization in the Chilean Chamber of Deputies, full sample](/figures/chile_polarization_full_sample.png)
 
 
 ## What the paper shows
